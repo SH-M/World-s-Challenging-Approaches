@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="SkyVector" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <rte>
+    <name>LOWW-LOWI</name>
+    <rtept lat="48.110278" lon="16.569722">
+      <name>LOWW</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="48.054228" lon="14.834614">
+      <name>SITNI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="47.967531" lon="12.894078">
+      <name>SBG</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="48.002583" lon="12.892761">
+      <name>SBG</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="47.430922" lon="11.940053">
+      <name>RTT</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="47.260278" lon="11.343889">
+      <name>LOWI</name>
+      <overfly>false</overfly>
+    </rtept>
+
+  </rte>
+</gpx>
