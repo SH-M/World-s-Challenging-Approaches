@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="SkyVector" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <rte>
+    <name>YSSY-NZQN</name>
+    <rtept lat="-33.946111" lon="151.177222">
+      <name>YSSY</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="-34.330000" lon="150.785000">
+      <name>CORDO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="-34.951667" lon="150.530000">
+      <name>NWA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="-37.596156" lon="149.718322">
+      <name>OTKED</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="-37.596111" lon="149.718333">
+      <name>MCO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="-40.378011" lon="156.779158">
+      <name>GILLY</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="-41.137356" lon="163.000000">
+      <name>TOMAR</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="-44.617117" lon="166.880431">
+      <name>ADKOS</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="-45.021236" lon="168.739247">
+      <name>NZQN</name>
+      <overfly>false</overfly>
+    </rtept>
+
+  </rte>
+</gpx>
