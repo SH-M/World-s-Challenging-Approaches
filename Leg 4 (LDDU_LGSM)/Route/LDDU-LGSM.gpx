@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="SkyVector" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <rte>
+    <name>LDDU-LGSM</name>
+    <rtept lat="42.561353" lon="18.268244">
+      <name>LDDU</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.450278" lon="18.480000">
+      <name>MOKUN</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="42.100444" lon="18.885083">
+      <name>LASTI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.883139" lon="19.171722">
+      <name>LEBGA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.775278" lon="19.313889">
+      <name>PETAK</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="41.076667" lon="21.916667">
+      <name>TALAS</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="40.771944" lon="22.449444">
+      <name>ALIKO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="40.456808" lon="22.991058">
+      <name>TSL</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="39.339444" lon="24.502222">
+      <name>ESOPO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="39.107778" lon="24.811111">
+      <name>ETRUD</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="38.374722" lon="25.750278">
+      <name>PIVOS</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="38.251736" lon="25.905744">
+      <name>MES</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="38.061389" lon="26.116667">
+      <name>PIPEN</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.866389" lon="26.331111">
+      <name>IKARO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.685000" lon="26.528611">
+      <name>URNIL</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="37.689167" lon="26.912222">
+      <name>LGSM</name>
+      <overfly>false</overfly>
+    </rtept>
+
+  </rte>
+</gpx>
