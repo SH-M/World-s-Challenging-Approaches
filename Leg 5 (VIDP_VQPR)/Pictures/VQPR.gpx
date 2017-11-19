@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="SkyVector" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <rte>
+    <name>VIDP-VQPR</name>
+    <rtept lat="28.568611" lon="77.112222">
+      <name>VIDP</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="28.427583" lon="76.862611">
+      <name>ALIJA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="27.829306" lon="78.178333">
+      <name>ALI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="27.333528" lon="79.481750">
+      <name>KADAS</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="26.758611" lon="80.894444">
+      <name>LKN</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="26.977500" lon="82.997944">
+      <name>APIPU</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="27.139444" lon="84.665000">
+      <name>PARSA</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="27.164167" lon="84.982222">
+      <name>SMR</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="26.768139" lon="88.182000">
+      <name>MECHI</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="26.690556" lon="88.326389">
+      <name>BBD</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="26.982028" lon="88.863833">
+      <name>SUBSU</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="27.300833" lon="89.505556">
+      <name>PRO</name>
+      <overfly>false</overfly>
+    </rtept>
+    <rtept lat="27.403464" lon="89.424875">
+      <name>VQPR</name>
+      <overfly>false</overfly>
+    </rtept>
+
+  </rte>
+</gpx>
